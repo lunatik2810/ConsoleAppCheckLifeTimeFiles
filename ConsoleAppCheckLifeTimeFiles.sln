@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppCheckLifeTimeFiles", "ConsoleAppCheckLifeTimeFiles\ConsoleAppCheckLifeTimeFiles.csproj", "{43DEBE03-7D9C-432D-AA4B-EF819E7938A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{91712991-B5A7-43EA-B9DF-FC9651A6F8CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{43DEBE03-7D9C-432D-AA4B-EF819E7938A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43DEBE03-7D9C-432D-AA4B-EF819E7938A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43DEBE03-7D9C-432D-AA4B-EF819E7938A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91712991-B5A7-43EA-B9DF-FC9651A6F8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91712991-B5A7-43EA-B9DF-FC9651A6F8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91712991-B5A7-43EA-B9DF-FC9651A6F8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91712991-B5A7-43EA-B9DF-FC9651A6F8CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
